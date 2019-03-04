@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Ejercicio 1'/>
+        <page name='Bucles'/>
+        <page name='Valores nil'/>
+        <page name='Arrays'/>
+        <page name='Funciones'/>
+        <page name='Ejercicio 2 Funciones'/>
+        <page name='Objetos'/>
+        <page name='Objetos 2'/>
+        <page name='Enumeraciones'/>
+        <page name='Estructuras'/>
+        <page name='Ejercicio 3 Colegio'/>
+        <page name='Ejercicio 4 Zoo'/>
+    </pages>
+</playground>
